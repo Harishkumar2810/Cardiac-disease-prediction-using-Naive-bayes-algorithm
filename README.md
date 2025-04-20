@@ -11,7 +11,6 @@ This project predicts the likelihood of a person having heart disease using mach
 
 ## 📂 Project Structure
 
-
 ## 🔍 Problem Statement
 To develop a prediction model that assists medical practitioners in early detection of heart disease using patient health records.
 
@@ -34,11 +33,10 @@ To develop a prediction model that assists medical practitioners in early detect
 7. Evaluate performance (confusion matrix, accuracy)
 
 ## ✅ Model Performance
-- **Accuracy**: 85% (example)
+- **Accuracy**: 88%
 - **Precision**: 82%
-- **Confusion Matrix**:  
-  *(Insert confusion matrix image)*
-
+- **Confusion Matrix**:
+   
 ## 📌 Insights
 - Age and cholesterol levels are significant predictors
 - The model performs well with balanced precision and recall
@@ -46,10 +44,6 @@ To develop a prediction model that assists medical practitioners in early detect
 ## 💡 Future Improvements
 - Try logistic regression and compare models
 - Tune parameters using GridSearchCV
-- Deploy as a web app (using Streamlit)
-
-## 📈 Preview
-*(Insert screenshots of EDA or model output here)*
 
 ## 📎 Dataset Source
 [Kaggle Heart Disease UCI Dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
